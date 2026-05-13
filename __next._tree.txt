@@ -1,2 +1,2 @@
-:HL["/VGC-TACTICAL-BOARD/_next/static/chunks/dc426e711d05a82c.css","style"]
-0:{"buildId":"zmD6tY8DCB4sf_puNhDXc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/VGC-TACTICAL-BOARD/_next/static/chunks/741bbdf3fb069cb0.css","style"]
+0:{"buildId":"Z6E4eq-OhBgmX5bpkGCgU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
